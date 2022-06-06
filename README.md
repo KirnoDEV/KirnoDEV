@@ -4,10 +4,10 @@
 
 ## Kirno
 📫 Add me on dsicord : Kirno#1234.
-
 ```
 V2 is coming
 ```
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)
 ## Natyx
 👋 Official Link
 - [Site Web](https://natyx.net)
